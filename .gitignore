@@ -1,0 +1,5 @@
+privado/
+resultados/
+*.pre77
+__pycache__/
+*.backup
